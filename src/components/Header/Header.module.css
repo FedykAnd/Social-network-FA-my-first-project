@@ -9,9 +9,9 @@
 
 .loginBlock {
     float: right;
+    color: rgb(0, 225, 255);
 
 }
 .loginBlock a {
-    color: white;
+    color: rgb(253, 253, 253);
 }
-

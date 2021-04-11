@@ -44,6 +44,12 @@ class App extends Component {
 
                             <Route path='/login'
                                    render={() => <LoginPage/>}/>
+                            <Route path='/news'
+                                   render={() => <h3>Сторінка "Новин" в розробці.</h3>}/>
+                            <Route path='/music'
+                                   render={() => <h3>Сторінка "Музики" в розробці.</h3>}/>
+                            <Route path='/setting'
+                                   render={() => <h3>Сторінка "Налаштувань" в розробці.</h3>}/>
                         </div>
                     </div>
         )
